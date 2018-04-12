@@ -11,7 +11,11 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.zx.jiaowu.data.pojo.Student;
 import com.zx.jiaowu.service.MenuService;
-
+/**
+ * 
+ * @author farmer
+ * @time 2018年4月12日 下午10:39:08
+ */
 @RequestMapping("menu")
 @RestController
 public class MenuController {
